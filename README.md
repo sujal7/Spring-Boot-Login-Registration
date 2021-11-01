@@ -5,3 +5,4 @@
 ### Email verification expiry after 15 minutes.
 ### Tested POST Requests using Postman.
 ### Tested email verifications using MailDev.
+### PostgreSQL as Database.
